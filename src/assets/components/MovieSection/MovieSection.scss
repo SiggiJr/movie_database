@@ -1,0 +1,8 @@
+.movie_section{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin-inline: 30px;
+  padding-top: 10px;
+
+}
